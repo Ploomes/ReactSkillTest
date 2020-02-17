@@ -10,17 +10,24 @@ Nele existe uma aplicação feita em AngularJS que emite notas fiscais, fazendo 
 
 ## Requisitos mínimos (Charmander)
 [] Criar um repositório público baseado no repositório base acima
+
 [] Converter a aplicação de AngularJS para React, mantendo as mesmas funcionalidades presentes na aplicação original
+
 [] Documentar o passo a passo do processo usando commits bem escritos EM INGLÊS
+
 [] Quebrar a aplicação em componentes reutilizáveis, usando boas práticas de estrutura de código e pastas
+
 [] Adicionar a funcionalidade de desconto percentual em cada produto
+
 [] Criar um script em Grunt/Gulp/Webpack para rodar o servidor localmente e fazer uma build para produção
 
 É importante reforçar que a aplicação precisa ser CONVERTIDA, mostrando no histórico de commits os passos tomados. Não é o objetivo do trabalho reescrever em um projeto novo a aplicação em React, dado que isso não irá refletir a realidade do trabalho.
 
 ## Requisitos desejáveis (Charmeleon)
 [] Escrever testes funcionais que garantam a qualidade do código
+
 [] Utilizar alguma biblioteca de gerenciamento de estado (Redux, Mobx etc)
+
 [] Adicionar a funcionalidade de conversão de valores por moedas (puxando de alguma API a taxa de câmbio)
 
 ## Requisitos excepcionais (Charizard)
