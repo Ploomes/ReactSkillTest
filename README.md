@@ -1,4 +1,4 @@
-# Deafio: Converter uma aplicação AngularJS em React
+# Desafio: Converter uma aplicação AngularJS em React
 
 # Objetivo
 O objetivo desse desafio é avaliar a capacidade de aprendizado de uma tecnologia legada (AngularJS) e a capacidade de mapeamento e conversão da aplicação para uma tecnologia moderna (React).
