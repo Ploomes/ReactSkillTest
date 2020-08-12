@@ -24,6 +24,6 @@ Nele existe uma aplicação feita em AngularJS que emite notas fiscais, fazendo 
 - [ ] Adicionar a funcionalidade de conversão de valores por moedas (puxando de alguma API a taxa de câmbio)
 
 ## Requisitos excepcionais (Charizard)
-- [ ] Conseguir, em algum momento da conversão, rodar na mesma build a aplicação em AngularJS e em React usando alguma biblioteca do tipo https://github.com/coatue-oss/react2angular
+- [ ] Conseguir, em algum momento da conversão, rodar na mesma build a aplicação em AngularJS e em React usando alguma biblioteca do tipo https://github.com/coatue-oss/react2angular ou https://single-spa.js.org/
 
 ## BOA SORTE ##
